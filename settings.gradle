@@ -1,0 +1,3 @@
+rootProject.name = 'springmvc2'
+include 'sample'
+

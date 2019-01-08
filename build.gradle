@@ -1,0 +1,11 @@
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
+group 'com.sunxu'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    
+}
